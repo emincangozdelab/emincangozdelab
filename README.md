@@ -1,7 +1,6 @@
-# Ana alan: Red Team Security  Researcher - Ring 3  
-# Niş alan: Endpoint Threat Simulation Programmer
+# Ana alan: Red Team Security  Researcher  
 
-siber güvenlik dünyasında, C programlama diliyle işletim sisteminin Ring-3 seviyesinde, savunma mekanizmalarını ve ekiplerini test eden özel simülasyon araçları geliştiriyorum. Gelişim yolculuğumda, "Endpoint Threat Simulation" gibi niş bir alana yoğunlaştım. Çalışmalarımın temel amacı, hazırladığım güvenli test senaryoları ile Blue Team ve SOC ekiplerinin bir saldırı anındaki tepki hızını ve tespit yeteneklerini test etmek ve bu aşamada ekibi uç nokta (endpoint) seviyesinde geliştirmektir. Kurguladığım bu simülasyonlar, savunma sistemlerinin eksiklerini görmesini sağlayarak, dijital güvenliği daha proaktif ve eğitimli hale getirmesine katkıda bulunmaktadır.
+siber güvenlik dünyasında, C programlama diliyle işletim sisteminin Ring-3 seviyesinde, savunma mekanizmalarını ve ekiplerini test eden özel simülasyon araçları geliştirmeyi öğreniyorum. Bu gelişim yolculuğumda, "Endpoint Threat Simulation" gibi niş bir alana yoğunlaştım. Çalışmalarımın temel amacı, hazırladığım güvenli test senaryoları ile Blue Team ve SOC ekiplerinin bir saldırı anındaki tepki hızını ve tespit yeteneklerini test etmek ve bu aşamada ekibi uç nokta (endpoint) seviyesinde geliştirmektir. Kurguladığım bu simülasyonlar, savunma sistemlerinin eksiklerini görmesini sağlayarak, dijital güvenliği daha proaktif ve eğitimli hale getirmesine katkıda bulunmaktadır.
 
 ## Dünya Gözüyle: Neden Bu Testlere İhtiyaç Var?
 
