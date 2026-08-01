@@ -1,24 +1,23 @@
-# Red Team Security Researcher — Ring 3
-### Endpoint Threat Simulation Programmer
+# Red Team Security Researcher
+### Ring-3 | Endpoint Threat Simulation Programmer
 
 ---
 
-Siber güvenlik dünyasında, **C programlama diliyle** işletim sisteminin **Ring-3** seviyesinde, savunma mekanizmalarını ve ekiplerini test eden özel simülasyon araçları geliştiriyorum. Gelişim yolculuğumda, "Endpoint Threat Simulation" gibi niş bir alana yoğunlaştım. 
+### Profil
+Siber güvenlik dünyasında, **C programlama diliyle** işletim sisteminin **Ring-3** seviyesinde; savunma mekanizmalarını ve güvenlik ekiplerini test eden özel simülasyon araçları geliştiriyorum. Gelişim yolculuğumu *"Endpoint Threat Simulation"* gibi niş ve kritik bir alanda şekillendiriyorum.
 
-Çalışmalarımın temel amacı, hazırladığım güvenli test senaryoları ile **Blue Team** ve **SOC** ekiplerinin bir saldırı anındaki tepki hızını ve tespit yeteneklerini test etmek ve bu aşamada ekibi uç nokta (`endpoint`) seviyesinde geliştirmektir. Kurguladığım bu simülasyonlar, savunma sistemlerinin eksiklerini görmesini sağlayarak, dijital güvenliği daha proaktif ve eğitimli hale getirmesine katkıda bulunmaktadır.
-
----
-
-## Dünya Gözüyle: Neden Bu Testlere İhtiyaç Var?
-
-Dünyada siber güvenlik savunmasını doğrulamak ve geliştirmek için bu testler halihazırda profesyonel bir standart olarak uygulanmaktadır. Tüm güvenlik ekipleri; sistemlerinin bir tehdit anında nasıl tepki verdiğini ölçmek, kendilerini eğitmek ve zafiyetleri kapatmak için bu simülasyonları düzenli olarak kullanır.
+Hazırladığım güvenli test senaryoları ile **Blue Team** ve **SOC** ekiplerinin bir saldırı anındaki tepki hızını ve tespit yeteneklerini ölçüyor, ekipleri uç nokta (`endpoint`) seviyesinde proaktif olarak geliştiriyorum. Kurguladığım bu simülasyonlar, savunma sistemlerinin kör noktalarını ortaya çıkararak dijital güvenliği daha dirençli ve eğitimli hale getirmeyi amaçlıyor.
 
 ---
 
-## Etik ve Yasal Çerçeve
+### Neden Bu Testlere İhtiyaç Var?
+Küresel ölçekte siber güvenlik savunmalarını doğrulamak ve sürekli geliştirmek artık profesyonel bir standarttır. Tüm profesyonel güvenlik ekipleri; sistemlerinin bir tehdit anında nasıl tepki verdiğini gözlemlemek, ekiplerini eğitmek ve olası zafiyetleri kapatmak için bu simülasyonları düzenli olarak kullanmaktadır.
 
-Yapılan çalışmalar ve tüm içerikler yalnızca **teknik araştırma, eğitim ve güvenlik farkındalığı** amacı taşır. Çalışmalar izole ve kontrollü ortamlarda gerçekleştirilmekte olup, sadece sistem ve güvenlik ekiplerinin gözlemi ve eğitimi için kullanılmaktadır.
+---
 
-### Etik Çağrı
+### Etik ve Yasal Çerçeve
+* **Kapsam:** Tüm çalışmalar ve geliştirilen içerikler yalnızca **teknik araştırma, eğitim ve güvenlik farkındalığı** amacı taşır.
+* **Ortam:** Testler tamamen izole ve kontrollü ortamlarda gerçekleştirilmekte olup, yalnızca yetkili sistem ve güvenlik ekiplerinin gözlemi ile eğitimi için kullanılmaktadır.
 
-> Siber güvenlik alanında çalışan herkesin, bilgi ve becerilerini toplumsal fayda, eğitim ve güvenlik geliştirme için kullanması gerektiğine inanıyorum. Teknoloji, kötüye kullanım için değil; kurumların ve bireylerin daha güvenli bir dijital dünyada var olabilmesi için kullanılmalıdır.
+> **Etik Çağrı**
+> Siber güvenlik alanında faaliyet gösteren herkesin; bilgi ve becerilerini toplumsal fayda, eğitim ve savunma mekanizmalarını geliştirmek için kullanması gerektiğine inanıyorum. Teknoloji kötüye kullanım için değil, kurumların ve bireylerin daha güvenli bir dijital dünyada var olabilmesi için vardır.
