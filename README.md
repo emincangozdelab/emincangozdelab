@@ -1,6 +1,9 @@
-# Ana alan: Red Team Security  Researcher  
+# Self-Taught Cyber Red Team Researcher
 
-siber güvenlik dünyasında, C programlama diliyle işletim sisteminin Ring-3 seviyesinde, savunma mekanizmalarını ve ekiplerini test eden özel simülasyon araçları geliştiriyorum. Bu gelişim yolculuğumda, "Endpoint Threat Simulation" gibi niş bir alana yoğunlaştım. Çalışmalarımın temel amacı, hazırladığım güvenli test senaryoları ile Blue Team ve SOC ekiplerinin bir saldırı anındaki tepki hızını ve tespit yeteneklerini test etmek ve bu aşamada ekibi uç nokta (endpoint) seviyesinde geliştirmektir. Kurguladığım bu simülasyonlar, savunma sistemlerinin eksiklerini görmesini sağlayarak, dijital güvenliği daha proaktif ve eğitimli hale getirmesine katkıda bulunmaktadır.
+Hobi olarak siber güvenlik dünyasına olan merakımı, C programlama dili ile yürüyorum. Benim için bu bir işten ziyade; makineyi anlamak ve onunla iletişim kurmak gibi son derece eğlenceli bir tutku.
+Henüz yolun başında ve sürekli yeni şeyler öğrenen kendi kendini yetiştirmiş (alaylı) bir araştırmacı olarak, gelişim yolculuğumda özellikle "Endpoint Threat Simulation" (Uç Nokta Tehdit Simülasyonu) alanına yoğunlaştım. İzole ve sanal laboratuvar ortamlarında, öğrendiklerimi pekiştirmek için kurguladığım bu güvenli test senaryolarıyla; Blue Team ve SOC ekiplerinin bir saldırı anındaki tepki hızını, tespit yeteneklerini ve uç nokta seviyesindeki reflekslerini pratik olarak anlamayı hedefliyorum.
+Bu süreçte hem kendimi eğitiyor hem de geliştiriyorum. Tasarladığım bu simülasyonlar sayesinde, savunma mekanizmalarının kendi eksiklerini görmesini sağlayarak dijital güvenliğin daha proaktif hale gelmesine katkıda bulunmayı amaçlıyorum.
+
 
 ## Dünya Gözüyle: Neden Bu Testlere İhtiyaç Var?
 
